@@ -1,0 +1,58 @@
+<svg id="bg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1582.724" height="1110" viewBox="0 0 1582.724 1110">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.528" y1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#09c"/>
+      <stop offset="1" stop-color="#339"/>
+    </linearGradient>
+  </defs>
+  <rect id="Rectangle_5" data-name="Rectangle 5" width="1440" height="641" transform="translate(0 414)" fill="#fff"/>
+  <g id="dots" transform="translate(105 1000)">
+    <circle id="Oval_2" data-name="Oval 2" cx="7.5" cy="7.5" r="7.5" fill="#f8f8f8"/>
+    <circle id="Oval_2_Copy_8" data-name="Oval 2 Copy 8" cx="7.5" cy="7.5" r="7.5" transform="translate(57)" fill="#f8f8f8"/>
+    <circle id="Oval_2_Copy_4" data-name="Oval 2 Copy 4" cx="7.5" cy="7.5" r="7.5" transform="translate(0 63)" fill="#f8f8f8"/>
+    <circle id="Oval_2_Copy_9" data-name="Oval 2 Copy 9" cx="7.5" cy="7.5" r="7.5" transform="translate(57 63)" fill="#f8f8f8"/>
+    <circle id="Oval_2_Copy_2" data-name="Oval 2 Copy 2" cx="7.5" cy="7.5" r="7.5" transform="translate(0 32)" fill="#f8f8f8"/>
+    <circle id="Oval_2_Copy_10" data-name="Oval 2 Copy 10" cx="7.5" cy="7.5" r="7.5" transform="translate(57 32)" fill="#f8f8f8"/>
+    <circle id="Oval_2_Copy_5" data-name="Oval 2 Copy 5" cx="7.5" cy="7.5" r="7.5" transform="translate(0 95)" fill="#f8f8f8"/>
+    <circle id="Oval_2_Copy_11" data-name="Oval 2 Copy 11" cx="7.5" cy="7.5" r="7.5" transform="translate(57 95)" fill="#f8f8f8"/>
+    <circle id="Oval_2_Copy" data-name="Oval 2 Copy" cx="7.5" cy="7.5" r="7.5" transform="translate(29)" fill="#f8f8f8"/>
+    <circle id="Oval_2_Copy_12" data-name="Oval 2 Copy 12" cx="7.5" cy="7.5" r="7.5" transform="translate(86)" fill="#f8f8f8"/>
+    <circle id="Oval_2_Copy_6" data-name="Oval 2 Copy 6" cx="7.5" cy="7.5" r="7.5" transform="translate(29 63)" fill="#f8f8f8"/>
+    <circle id="Oval_2_Copy_13" data-name="Oval 2 Copy 13" cx="7.5" cy="7.5" r="7.5" transform="translate(86 63)" fill="#f8f8f8"/>
+    <circle id="Oval_2_Copy_3" data-name="Oval 2 Copy 3" cx="7.5" cy="7.5" r="7.5" transform="translate(29 32)" fill="#f8f8f8"/>
+    <circle id="Oval_2_Copy_14" data-name="Oval 2 Copy 14" cx="7.5" cy="7.5" r="7.5" transform="translate(86 32)" fill="#f8f8f8"/>
+    <circle id="Oval_2_Copy_7" data-name="Oval 2 Copy 7" cx="7.5" cy="7.5" r="7.5" transform="translate(29 95)" fill="#f8f8f8"/>
+    <circle id="Oval_2_Copy_15" data-name="Oval 2 Copy 15" cx="7.5" cy="7.5" r="7.5" transform="translate(86 95)" fill="#f8f8f8"/>
+  </g>
+  <g id="rectangle" transform="translate(529)">
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="764.205" height="725.545" rx="100" transform="translate(494.82 0) rotate(43)" fill="url(#linear-gradient)"/>
+    <g id="triangle" transform="translate(155 569)">
+      <path id="Shape" d="M21.661,12.5,25,0,12.5,3.362,0,6.717l9.158,9.141L18.316,25l3.345-12.5Z" fill="none" stroke="#2354aa" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="5"/>
+    </g>
+    <g id="cross" transform="translate(577 926)">
+      <path id="Shape-2" data-name="Shape" d="M25,23,0,0" transform="translate(0 1)" fill="none" stroke="#30369a" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="5"/>
+      <path id="Shape-3" data-name="Shape" d="M0,25,23,0" transform="translate(1)" fill="none" stroke="#30369a" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="5"/>
+    </g>
+    <g id="zip" transform="translate(661 620)">
+      <path id="Shape-4" data-name="Shape" d="M12.25,0C12.25,6.89,0,5.72,0,14.53" transform="translate(0.5 44.11)" fill="none" stroke="#088ac4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="5"/>
+      <path id="Shape-5" data-name="Shape" d="M12.25,0C12.25,6.91,0,5.72,0,14.54" transform="translate(0.5 15)" fill="none" stroke="#088ac4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="5"/>
+      <path id="Shape-6" data-name="Shape" d="M12.25,14.54C12.25,7.63,0,8.82,0,0" transform="translate(0.5 29.57)" fill="none" stroke="#088ac4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="5"/>
+      <path id="Shape-7" data-name="Shape" d="M12.25,14.5C12.25,7.63,0,8.82,0,0" transform="translate(0.5 0.5)" fill="none" stroke="#088ac4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="5"/>
+    </g>
+  </g>
+  <g id="small_elements" data-name="small elements" transform="translate(158 416)">
+    <g id="cross-2" data-name="cross" transform="translate(0 110)">
+      <path id="Shape-8" data-name="Shape" d="M24,23,0,0" transform="translate(0 1)" fill="none" stroke="#f8f8f8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="5"/>
+      <path id="Shape-9" data-name="Shape" d="M0,24,23,0" transform="translate(1)" fill="none" stroke="#f8f8f8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="5"/>
+    </g>
+    <g id="dug" transform="translate(254 319)">
+      <path id="Shape-10" data-name="Shape" d="M15.84,31.68A15.84,15.84,0,0,1,15.84,0" transform="translate(0.57 0.5)" fill="none" stroke="#f8f8f8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="5"/>
+    </g>
+    <g id="triangle-2" data-name="triangle" transform="translate(430 514)">
+      <path id="Shape-11" data-name="Shape" d="M35.1,20.27,40.51,0,20.26,5.45,0,10.89,14.84,25.71,29.68,40.53,35.1,20.27Z" transform="translate(0.5 0.5)" fill="none" stroke="#f8f8f8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="5"/>
+    </g>
+    <g id="circle" transform="translate(380)">
+      <circle id="Oval" cx="13" cy="13" r="13" stroke-width="5" transform="translate(0.074 13.921) rotate(-32.18)" stroke="#f8f8f8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+    </g>
+  </g>
+</svg>

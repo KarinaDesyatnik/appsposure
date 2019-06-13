@@ -1,0 +1,28 @@
+<svg id="bg" xmlns="http://www.w3.org/2000/svg" width="1440" height="516" viewBox="0 0 1440 516">
+  <rect id="Rectangle_16" data-name="Rectangle 16" width="1440" height="516" fill="#f8f8f8"/>
+  <g id="triangle" transform="translate(180 69)">
+    <path id="Shape" d="M41.59,24.006,48,0,24.006,6.454,0,12.9,17.584,30.449,35.168,48,41.59,24.006Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="5"/>
+  </g>
+  <g id="triangle_copy" data-name="triangle copy" transform="translate(1206 426)">
+    <path id="Shape-2" data-name="Shape" d="M27.726,16,32,0,16,4.3,0,8.6,11.723,20.3,23.445,32l4.281-16Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="5"/>
+  </g>
+  <g id="rectangle" transform="translate(547 434)">
+    <rect id="Rectangle-path" width="44" height="44" stroke-width="5" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+  </g>
+  <g id="dug" transform="translate(119 456)">
+    <path id="Shape-3" data-name="Shape" d="M15.84,31.68A15.84,15.84,0,0,1,15.84,0" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="5"/>
+  </g>
+  <g id="dug_copy" data-name="dug copy" transform="translate(933 306) rotate(180)">
+    <path id="Shape-4" data-name="Shape" d="M-16,32A16,16,0,0,0,0,16,16,16,0,0,0-16,0" transform="rotate(180)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="5"/>
+  </g>
+  <g id="cross" transform="translate(1157 145)">
+    <path id="Shape-5" data-name="Shape" d="M33,31,0,0" transform="translate(0 1)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="5"/>
+    <path id="Shape-6" data-name="Shape" d="M0,33,31,0" transform="translate(1)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="5"/>
+  </g>
+  <g id="circle" transform="translate(279 308)">
+    <circle id="Oval" cx="19.5" cy="19.5" r="19.5" stroke-width="5" transform="translate(0.61 21.381) rotate(-32.18)" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+  </g>
+  <g id="circle_copy" data-name="circle copy" transform="translate(815 22)">
+    <circle id="Oval-2" data-name="Oval" cx="13" cy="13" r="13" transform="translate(0.074 13.921) rotate(-32.18)" stroke-width="5" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+  </g>
+</svg>
